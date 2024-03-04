@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbT+n8g/oSZ6YKURy8HJB7EOsYpDEDTwllF2zON/mswwDKOHXTsys5dAw2wmcvnk6W8eSq/VMrYqLeAZE8KdEA==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/DigitalLibrary/DigitalLibrary.Infrastructure/DigitalLibrary.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.extensions.caching.memory/6.0.0/microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

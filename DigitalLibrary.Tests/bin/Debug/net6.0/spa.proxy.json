@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44443",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/apple/Desktop/DigitalLibrary/DigitalLibrary.WebApi/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
